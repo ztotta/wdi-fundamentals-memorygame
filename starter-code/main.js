@@ -1,1 +1,6 @@
-console.log("JS file is connected to HTML! Woo!")
+//connected JS file to html file, and created values for the cards
+
+var cardOne = "queen";
+var cardTwo = "queen";
+var cardThree = "king";
+var cardFour = "king";
