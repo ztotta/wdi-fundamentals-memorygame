@@ -1,4 +1,4 @@
-//connected JS file to html file, and created values for the cards
+//connected JS file to html  file, and created values for the cards
 
 var cardOne = "queen";
 var cardTwo = "queen";
